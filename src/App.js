@@ -2,7 +2,8 @@
 function App() {
   return (
     <>
-      <h1>hi there</h1>    
+      <h1>my project</h1> 
+         
     </>
   );
 }
